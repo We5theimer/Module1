@@ -196,6 +196,18 @@ button:active {
 .project h4 {
   margin-bottom: 5px;
 }
+.project__work {
+  width: 555px;
+  height: 555px;
+}
+.project__img {
+  width: 555px;
+  height: 555px;
+}
+.project__work_overlay {
+  width: 555px;
+  height: 555px;
+}
 /* ------ Team ------ */
 .team {
   background: #f1f2fd;

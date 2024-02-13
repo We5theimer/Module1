@@ -200,14 +200,6 @@ button:active {
   width: 555px;
   height: 555px;
 }
-.project__img {
-  width: 555px;
-  height: 555px;
-}
-.project__work_overlay {
-  width: 555px;
-  height: 555px;
-}
 /* ------ Team ------ */
 .team {
   background: #f1f2fd;
@@ -257,13 +249,13 @@ button:active {
   padding: 0;
   margin: 0;
 }
-.img_fluid {
+.img__fluid {
   background: url("../img/client.jpg") 100% 100% no-repeat;
   background-size: cover;
   height: 500px;
   width: 100%;
 }
-.text_fluid {
+.text__fluid {
   background: #53354a;
   padding-top: 132px;
   padding-bottom: 147px;
@@ -382,16 +374,16 @@ button:active {
     margin: auto;
     width: 520px;
   }
-  .text_fluid {
+  .text__fluid {
     margin: auto;
   }
   .text__author {
     text-align: center;
   }
-  .img_fluid {
+  .img__fluid {
     display: none;
   }
-  .text_fluid {
+  .text__fluid {
     padding-top: 110px;
     padding-bottom: 131px;
     padding-left: 85px;
@@ -413,7 +405,7 @@ button:active {
   .point {
     margin-top: 40px;
   }
-  .text_fluid {
+  .text__fluid {
     padding-left: 0;
   }
   .text__quote {
@@ -439,7 +431,7 @@ button:active {
   .nav a {
     display: none;
   }
-  .img_fluid {
+  .img__fluid {
     display: none;
   }
   .text__quote {
@@ -450,7 +442,7 @@ button:active {
   .text__author {
     text-align: center;
   }
-  .text_fluid {
+  .text__fluid {
     padding-left: 0;
   }
 }
